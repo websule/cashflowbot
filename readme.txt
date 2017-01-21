@@ -1,1 +1,1 @@
-Cashflow Manager Bot
+Cashflow Manager Bot 0.9
